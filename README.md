@@ -1,2 +1,2 @@
 # Insurance-Charges-Prediction
-final project
+python for statistic analysis -- final project
